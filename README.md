@@ -1,6 +1,6 @@
 # ❌ X-O Game (Tic-Tac-Toe)
 
-![Tic-Tac-Toe](https://your-image-link.com)
+
 
 ## Project Overview
 
